@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="980" viewBox="0 0 1400 980" role="img" aria-labelledby="title desc">
+<title id="title">时之瓶行动路线示意图</title><desc id="desc">四个地点与六段叙事路线，空间关系是提案，第三和第六段为跨场省略。</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto"><path d="M0 0 8 4 0 8" fill="none" stroke="#b34436" stroke-width="1.5"/></marker></defs>
+<rect width="1400" height="980" fill="#f3f0e8"/>
+<g fill="#344136" font-family="PingFang SC, Microsoft YaHei, sans-serif"><text x="85" y="90" font-size="42">时之瓶 · 行动路线</text><text x="85" y="128" font-size="18" fill="#6a756a">空间关系提案 / 非实际比例 / 编号为叙事顺序</text></g>
+<path d="M60 710 Q370 665 650 720 T1340 716 L1340 790 L60 790Z" fill="#ccdada"/>
+<g fill="none" stroke="#abb8ae" stroke-width="2"><path d="M95 747 Q260 720 445 753 T850 754 T1300 750"/><path d="M130 776 Q320 745 510 775 T970 778"/></g>
+<g fill="#e6e4d7" stroke="#a2aa98" stroke-width="2">
+<rect x="125" y="230" width="240" height="115" rx="4"/><rect x="1000" y="230" width="250" height="115" rx="4"/>
+<rect x="125" y="555" width="240" height="115" rx="4"/><rect x="1000" y="555" width="250" height="115" rx="4"/>
+</g>
+<g fill="#354339" font-family="PingFang SC, Microsoft YaHei, sans-serif" text-anchor="middle">
+<text x="245" y="277" font-size="27">便利店 · 校门口</text><text x="245" y="311" font-size="17">第 5 场</text>
+<text x="1125" y="277" font-size="27">池子家</text><text x="1125" y="311" font-size="17">公共空间 / 房间 · 3、4、7</text>
+<text x="245" y="604" font-size="27">储存点</text><text x="245" y="639" font-size="17">正常 / 故障 / 复苏 · 1、6、8</text>
+<text x="1125" y="604" font-size="27">海边</text><text x="1125" y="639" font-size="17">第 2 场</text>
+</g>
+<g stroke="#b34436" stroke-width="3.5" fill="none" stroke-linecap="round" marker-end="url(#arrow)">
+<path d="M380 622 Q670 660 980 622"/>
+<path d="M1180 536 Q1200 438 1180 366"/>
+<path d="M979 276 Q680 214 388 276" stroke-dasharray="10 10"/>
+<path d="M220 365 Q194 449 220 535"/>
+<path d="M382 567 Q660 423 979 326"/>
+<path d="M997 361 Q750 502 400 593" stroke-dasharray="10 10"/>
+</g>
+<g font-family="PingFang SC, Microsoft YaHei, sans-serif" font-size="22" fill="#b34436" text-anchor="middle" style="paint-order:stroke;stroke:#f3f0e8;stroke-width:9px;stroke-linejoin:round">
+<text x="670" y="675">① 去海边</text><text x="1247" y="459">② 回家</text><text x="680" y="220">③ 跨场至校门口</text><text x="128" y="453">④ 故障</text><text x="595" y="441">⑤ 回家 · 夜</text><text x="778" y="518">⑥ 返回送球 · 日</text>
+</g>
+<g fill="#58665b" font-family="PingFang SC, Microsoft YaHei, sans-serif" font-size="18"><text x="85" y="838">实线：叙事衔接　　虚线：跨场省略；没有表示具体街道或行走时长</text><text x="85" y="874">① 第1→2场　② 第2→3场　③ 第4→5场　④ 第5→6场　⑤ 第6→7场　⑥ 第7→8场</text><text x="85" y="916">四处外部地点 · 房间包含在池子家中 · 地理方位与距离非剧本既定设定</text></g>
+</svg>
