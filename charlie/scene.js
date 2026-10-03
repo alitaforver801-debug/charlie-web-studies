@@ -1,5 +1,5 @@
 import * as T from 'three';
-import {OrbitControls} from './vendor/OrbitControls.js';
+import {OrbitControls} from './第三方依赖/OrbitControls.js';
 const canvas=document.querySelector('#scene'),loading=document.querySelector('#loading'),motion=document.querySelector('#motion'),reduce=matchMedia('(prefers-reduced-motion: reduce)');
 let moving=!reduce.matches,controls,renderer;
 function updateMotion(){motion.setAttribute('aria-pressed',String(moving));motion.textContent=moving?'暂停漂浮 Ⅱ':'开启漂浮 ↻';}updateMotion();
